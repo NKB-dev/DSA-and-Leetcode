@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Tree
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
