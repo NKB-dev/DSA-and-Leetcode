@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0455-assign-cookies) |
+| [2714-left-and-right-sum-differences](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0455-assign-cookies) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
