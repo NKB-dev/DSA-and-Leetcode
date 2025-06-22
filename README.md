@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0344-reverse-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0067-add-binary) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Array
 |  |
 | ------- |
