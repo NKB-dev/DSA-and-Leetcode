@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
