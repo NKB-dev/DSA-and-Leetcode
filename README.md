@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0724-find-pivot-index) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Tree
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
