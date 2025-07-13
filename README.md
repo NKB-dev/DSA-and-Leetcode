@@ -105,4 +105,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0724-find-pivot-index) |
 | [2714-left-and-right-sum-differences](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2714-left-and-right-sum-differences) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
