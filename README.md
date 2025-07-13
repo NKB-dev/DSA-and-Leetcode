@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0724-find-pivot-index) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2714-left-and-right-sum-differences](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -92,10 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
 |  |
 | ------- |
