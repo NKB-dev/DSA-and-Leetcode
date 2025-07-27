@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0202-happy-number) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
