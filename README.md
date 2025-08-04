@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0495-teemo-attacking) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Array
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0495-teemo-attacking) |
 | [0724-find-pivot-index](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0724-find-pivot-index) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
