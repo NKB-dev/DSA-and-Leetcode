@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2714-left-and-right-sum-differences](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Stack
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Matrix
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
