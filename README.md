@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2714-left-and-right-sum-differences](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3790-fruits-into-baskets-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,8 +165,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/NKB-dev/DSA-and-Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
